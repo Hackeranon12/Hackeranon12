@@ -1,9 +1,9 @@
 <div align="center">
 
-# `> Hacker_`
+# `> Mighty_`
 
-**Vibe coder · Telegram bots · web visuals · AI video**
-**Вайбкодер · Telegram-боты · веб-визуалы · видео с нейросетями**
+**Future enterprise systems (ERP/CRM) developer · databases · automation · bots**
+**Будущий разработчик КИС · базы данных · автоматизация · боты**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -18,11 +18,11 @@
 
 ## 🇷🇺 Обо мне
 
-Учусь программировать вместе с ИИ: придумываю идею, собираю её в Claude Code и довожу до работающего результата. Люблю красивые интерфейсы, ботов, которые реально решают задачи, и визуальные эффекты.
+Учусь на направлении КИС (корпоративные информационные системы): базы данных, автоматизация бизнес-процессов, интеграции. Практикуюсь на ботах и веб-проектах, собираю их вместе с Claude Code и довожу до работающего результата.
 
 ## 🇬🇧 About
 
-I learn by building with AI: I come up with an idea, ship it with Claude Code and polish it until it works. I like clean interfaces, bots that solve real problems, and visual effects.
+I study Enterprise Information Systems: databases, business process automation and integrations. I practice on bots and web projects, building them with Claude Code and polishing until they work.
 
 ---
 
