@@ -35,13 +35,14 @@ I study Enterprise Information Systems: databases, business process automation a
 | ✨ | **3D Heart** | 3D heart model in the browser / 3D-сердце в браузере |
 | ✨ | **Nexus Trading Desk** | Neon trader terminal UI / неоновый «терминал трейдера» |
 | ✨ | **LARP remakes 1:1** | 15 dashboard remakes from a TikTok video / 15 точных ремейков дашбордов |
-| 🎓 | **Class schedule bot** | Telegram bot with a university timetable / бот с расписанием пар |
-| 🎓 | **Roger Store** | Telegram shop for enduro graphics (aiogram, SQLite) / магазин графики для эндуро |
+| 🎓 | [**Class schedule bot**](https://github.com/Hackeranon12/pair-reminder-bot) | Telegram bot with a university timetable / бот с расписанием пар |
+| 🎓 | [**Roger Store**](https://github.com/Hackeranon12/roger-store) | Telegram shop for enduro graphics (aiogram, SQLite) / магазин графики для эндуро |
+| ✨ | [**Metal shop site**](https://github.com/Hackeranon12/volgamet-site) | Multi-page catalog site / сайт металлопроката с каталогом |
 | 🎓 | **Homework collector** | Group homework → Saved Messages / домашка из группы в «Избранное» |
 | 🎮 | **Cluck Clash** | Chicken shooter for Roblox / шутер с курицами для Roblox |
 
-> Исходники пока в приватных репозиториях, постепенно открываю лучшее.
-> Source code lives in private repos for now; the best parts will go public.
+> Проекты со ссылками открыты, остальные пока в приватных репозиториях.
+> Linked projects are public; the rest live in private repos for now.
 
 ---
 
